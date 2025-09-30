@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello , im a student in Computer Science and in developpement<br>of applications<br><br>through my studies, I've learned about Java , javascript, SQL database,<br>Firebase , HTML and Css<br><br>I am engaged into learning even more and excited to see how it goes ! <br><br><br>I am a super extrovert person and likes to communicate a lot :))
+Hello , im a student in Software engineering through my studies, I've learned about Java , javascript, SQL database,<br>Firebase , HTML and Css<br><br>I am engaged into learning even more and excited to see how it goes ! <br><br><br>I am a super extrovert person and likes to communicate a lot :))
 
 
 # 💻 Tech Stack:
